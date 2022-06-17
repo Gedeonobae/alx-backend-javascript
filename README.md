@@ -3,6 +3,7 @@
 <p>
 <b>Concepts</b>
 For this project, we expect you to look at these concepts:
+
 <ul>
 <li><a href="https://alx-intranet.hbtn.io/concepts/541">Modern Javascript</a></li>
 <li><a href="https://alx-intranet.hbtn.io/concepts/542">Software Linter</a></li>
