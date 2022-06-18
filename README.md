@@ -1,7 +1,7 @@
 <center><h1>0x00. ES6 Basics</h1></center>
 
 <p>
-<b>Concepts</b>
+## <b>Concepts</b>
 For this project, we expect you to look at these concepts:
 
 <ul>
