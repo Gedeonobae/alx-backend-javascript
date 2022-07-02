@@ -19,6 +19,5 @@
 > - Your code will be tested using the <a href = "https://jestjs.io/"> Jest Testing Framework </a>
 
 > - Your code will be analyzed using the linter <a href = "https://eslint.org/"> ESLint </a>
-
 > - All of your functions must be exported
 
