@@ -8,7 +8,7 @@
 <b>Read or watch:</b>
 
 <ul>
-<li><a href="https://alx-intranet.hbtn.io/rltoken/j_0FTFbkTg42JMcAbNPOVQ">Promise</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise">Promise</a></li>
 <li><a href="https://alx-intranet.hbtn.io/rltoken/2Q2LzNFokcUwpA2u3FKG6Q">JavaScript Promise: An introduction</a></li>
 <li><a href="https://alx-intranet.hbtn.io/rltoken/UXb3S2PMBe-SLJ55isMcow">Await</a></li>
 <li><a href="https://alx-intranet.hbtn.io/rltoken/_K0C7pgEjwaIzU9RpwCb8g">Async</a></li>
