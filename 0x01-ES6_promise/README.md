@@ -9,10 +9,10 @@
 
 <ul>
 <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise">Promise</a></li>
-<li><a href="https://alx-intranet.hbtn.io/rltoken/2Q2LzNFokcUwpA2u3FKG6Q">JavaScript Promise: An introduction</a></li>
-<li><a href="https://alx-intranet.hbtn.io/rltoken/UXb3S2PMBe-SLJ55isMcow">Await</a></li>
-<li><a href="https://alx-intranet.hbtn.io/rltoken/_K0C7pgEjwaIzU9RpwCb8g">Async</a></li>
-<li><a href="https://alx-intranet.hbtn.io/rltoken/UTjDgvKk5l892Xslh0vqcQ">Throw / Try</a></li>
+<li><a href="https://web.dev/promises/">JavaScript Promise: An introduction</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await">Await</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function">Async</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw">Throw / Try</a></li>
 </ul>
 </p>
 
